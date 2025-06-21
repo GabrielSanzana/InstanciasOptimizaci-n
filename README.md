@@ -1,9 +1,9 @@
 # Tarea 2 Optimización
 
 **Integrantes:**  
-* Patricio Figueroa  
-* Kavon Kermani  
-* Gabriel Sanzana
+* Patricio Figueroa — 21.479.639-2  
+* Kavon Kermani — 22.602.830-7  
+* Gabriel Sanzana — 21.177.249-2  
 
 ---
 
